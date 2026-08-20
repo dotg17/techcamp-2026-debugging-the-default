@@ -2,8 +2,8 @@
 
 ## Why “Just Speak Up” is Bad Advice
 
-**Handout for techcamp Hamburg 2026**  
-Dorothee Greve
+**Handout: Small Moves That Change the Room**  
+techcamp Hamburg 2026 | Dorothee Greve
 
 [Download the handout PDF](files/debugging-the-default-handout-techcamp-hamburg-2026.pdf)
 
