@@ -12,7 +12,7 @@ The handout turns the talk into small, practical moves for meetings and collabor
 
 You can download the handout here:
 
-[Download the PDF](./debugging-the-default-handout-techcamp-hamburg-2026.pdf)
+[Download the PDF](debugging-the-default-handout-techcamp-hamburg-2026.pdf)
 
 ## What the handout covers
 
