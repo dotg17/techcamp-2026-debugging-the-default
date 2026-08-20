@@ -5,7 +5,7 @@
 **Handout: Small Moves That Change the Room**  
 techcamp Hamburg 2026 | Dorothee Greve
 
-[Download the handout PDF](./debugging-the-default-handout-techcamp-hamburg-2026.pdf)
+[Download the handout PDF](debugging-the-default-handout-techcamp-hamburg-2026.pdf)
 
 This handout turns the talk into small, practical moves you can try in your next meeting - especially when the room runs on defaults that not everyone can carry equally.
 
