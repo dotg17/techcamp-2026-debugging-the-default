@@ -41,16 +41,13 @@ Defaults are not neutral. They are built into culture, structures, processes, to
 Version: techcamp Hamburg 2026  
 Last updated: 2026-08-20
 
+
 ## Author
 
 Dorothee Greve
-
 
 ## Landing page
 
 The public landing page for the handout is available here:
 
-https://github.com/dotg17/techcamp-2026-debugging-the-default/
-
-
-``
+https://dotg17.github.io/techcamp-2026-debugging-the-default/
